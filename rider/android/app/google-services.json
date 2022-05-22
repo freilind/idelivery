@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077446177563",
+    "project_id": "idelivery-app",
+    "storage_bucket": "idelivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077446177563:android:16fa48a0afa48f17f099be",
+        "android_client_info": {
+          "package_name": "com.massive.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077446177563-i719jvt4blm7uevut5ssctd1gm3qlruc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC2xscP_O3Elf5-qIhIzdMsb-i5PXvwDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077446177563-i719jvt4blm7uevut5ssctd1gm3qlruc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
